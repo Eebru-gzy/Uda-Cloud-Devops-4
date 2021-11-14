@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Eebru-gzy/Uda-Cloud-Devops-4/tree/master.svg?style=svg)](https://github.com/Eebru-gzy/Uda-Cloud-Devops-4/tree/master)
 
 ## Project Overview
 
